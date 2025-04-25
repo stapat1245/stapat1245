@@ -1,11 +1,8 @@
 # 💫 About Me:
 Cybersecurity Enthusiast <br>CTF Player for EHAX DTU<br>Blockchain Enthusiast
 
-![doge](https://tenor.com/bEoXn.gif)
-<div align="center">
-  <a href="https://github.com/stapat1245"><img src="https://tenor.com/bEoXn.gif" alt="doge" /></a>
-  <br><br>
-</div>
+<div class="tenor-gif-embed" data-postid="21983043" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/doge-gif-21983043">Doge Sticker</a>from <a href="https://tenor.com/search/doge-stickers">Doge Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stapuutt1245) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stavya1245) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stapat1245) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stavya1245@gmail.com) 
