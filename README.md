@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity Enthusiast <br>CTF Player for EHAX DTU<br>Blockchain Enthusiast
+Cybersecurity and blockchain enthusiast, passionate CTF player with EHAX DTU. Always exploring the edge of tech and security.
 
 <div align="centre">
 <img alt="doge" src="resources\doge.gif">
