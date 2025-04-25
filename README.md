@@ -16,10 +16,8 @@ Cybersecurity Enthusiast <br>CTF Player for EHAX DTU<br>Blockchain Enthusiast
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stapat1245&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-  ## 💰 Pay meeee
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Stavya125) 
-  [![Google pay](https://raw.githubusercontent.com/stapat1245/stapat1245/refs/heads/main/resources/upi.png)](https://raw.githubusercontent.com/stapat1245/stapat1245/refs/heads/main/resources/pay.png) 
-  
+## 💰 Pay meeee
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Stavya125)  
+[![UPI](https://img.shields.io/badge/UPI-%230078D4?style=for-the-badge&logo=googlepay&logoColor=white)](https://raw.githubusercontent.com/stapat1245/stapat1245/refs/heads/main/resources/pay.png)
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
