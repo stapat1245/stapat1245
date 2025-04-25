@@ -18,7 +18,7 @@ Cybersecurity Enthusiast <br>CTF Player for EHAX DTU<br>Blockchain Enthusiast
 
   ## 💰 Pay meeee
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Stavya125) 
-  [![Google pay](stapat1245\resources\upi.png)](https://paypal.me/Stavya125) 
+  [![Google pay](https://raw.githubusercontent.com/stapat1245/stapat1245/refs/heads/main/resources/upi.png)](https://raw.githubusercontent.com/stapat1245/stapat1245/refs/heads/main/resources/pay.png) 
   
 
   
