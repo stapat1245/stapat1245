@@ -1,7 +1,6 @@
 # 💫 About Me:
 Cybersecurity Enthusiast <br>CTF Player for EHAX DTU<br>Blockchain Enthusiast
 
-<div class="tenor-gif-embed" data-postid="21983043" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/doge-gif-21983043">Doge Sticker</a>from <a href="https://tenor.com/search/doge-stickers">Doge Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ## 🌐 Socials:
