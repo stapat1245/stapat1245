@@ -1,10 +1,10 @@
 # 💫 About Me:
 Cybersecurity and blockchain enthusiast, passionate CTF player with EHAX DTU. Always exploring the edge of tech and security.
 
-[🧠](https://stapat.tech)
+[🧠](https://stapat.xyz)
 
 
-[Hire me](https://resume.stapat.tech)
+[Hire me](https://resume.stapat.xyz)
 <div align="centre">
 <img alt="doge" src="resources\doge.gif">
 </div>
