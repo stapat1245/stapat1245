@@ -1,5 +1,5 @@
-# 💫 About Me:
-Cybersecurity and blockchain enthusiast, passionate CTF player with EHAX DTU. Always exploring the edge of tech and security.
+#  About Me:
+Cybersecurity and blockchain , passionate CTF player with EHAX DTU. Always exploring the edge of tech and security.
 
 [🧠](https://stapat.xyz)
 
