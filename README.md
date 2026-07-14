@@ -28,3 +28,6 @@ Cybersecurity and blockchain , passionate CTF player with EHAX DTU. Always explo
 [![UPI](https://img.shields.io/badge/UPI-%230078D4?style=for-the-badge&logo=googlepay&logoColor=white)](https://raw.githubusercontent.com/stapat1245/stapat1245/refs/heads/main/resources/pay.png)
 
 
+<div align="centre">
+<img width="640" height="360" alt="nope" src="resources\isityou.gif">
+</div>
