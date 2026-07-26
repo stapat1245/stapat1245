@@ -29,5 +29,5 @@ Cybersecurity and blockchain , passionate CTF player with EHAX DTU. Always explo
 
 
 <div align="centre">
-<img width="640" height="360" alt="nope" src="resources\isityou.gif">
+<img width="720" height="360" alt="nope" src="resources\isityou.gif">
 </div>
