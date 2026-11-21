@@ -4,7 +4,7 @@ Cybersecurity and blockchain researcher , passionate CTF player with EHAX DTU. A
 [🧠](https://stapat.xyz)
 
 
-[Hire me](https://cdn.rm.dcedtu.in/resumes/bd8e42b6-25c1-4e2d-b2f7-a0341308b15a.pdf)
+[Hire me](https://cdn.rm.dcedtu.in/resumes/eddf89ae-b3b5-493c-b046-a0b8e2529d46.pdf)
 <div align="centre">
 <img alt="doge" src="resources\doge.gif">
 </div>
