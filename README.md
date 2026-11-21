@@ -6,7 +6,12 @@ Cybersecurity and blockchain researcher , passionate CTF player with EHAX DTU. A
 
 [Hire me](https://cdn.rm.dcedtu.in/resumes/eddf89ae-b3b5-493c-b046-a0b8e2529d46.pdf)
 
-# Security Disclosures
+
+<div align="centre">
+<img alt="doge" src="resources\doge.gif">
+</div>
+
+## Security Disclosures
 
 [CVE-2026-128242](https://github.com/actix/actix-web/security/advisories/GHSA-qph8-7859-gq2f)
 
@@ -15,11 +20,6 @@ Cybersecurity and blockchain researcher , passionate CTF player with EHAX DTU. A
 [CVE-2026-109481](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-109481)
 
 [CVE-2026-123889](https://github.com/spring-projects/security-advisories/security/advisories/GHSA-f4jj-mmmr-jpjf)
-
-
-<div align="centre">
-<img alt="doge" src="resources\doge.gif">
-</div>
 
 
 ## 🌐 Socials:
