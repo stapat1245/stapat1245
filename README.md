@@ -9,8 +9,11 @@ Cybersecurity and blockchain researcher , passionate CTF player with EHAX DTU. A
 # Security Disclosures
 
 [CVE-2026-128242](https://github.com/actix/actix-web/security/advisories/GHSA-qph8-7859-gq2f)
+
 [CVE-2026-118513](https://github.com/symfony/symfony/security/advisories/GHSA-5w3m-mfwg-9f8r)
+
 [CVE-2026-109481](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-109481)
+
 [CVE-2026-123889](https://github.com/spring-projects/security-advisories/security/advisories/GHSA-f4jj-mmmr-jpjf)
 
 
